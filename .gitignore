@@ -1,0 +1,7 @@
+#folders
+bin/
+Results/
+Backup/
+
+#files
+Pages.g.*
